@@ -32,7 +32,6 @@ This repository contains manual testing artifacts demonstrating QA skills includ
 - Basic Security Testing
 
 ## Tester Information
-- **Name**: [Your Name]
 - **Role**: QA Engineer | Test Automation | Security Testing
 - **Certifications**: CompTIA Security+, ISTQB
 
