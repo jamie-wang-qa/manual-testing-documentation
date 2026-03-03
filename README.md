@@ -31,9 +31,5 @@ This repository contains manual testing artifacts demonstrating QA skills includ
 - Boundary Testing
 - Basic Security Testing
 
-## Tester Information
-- **Role**: QA Engineer | Test Automation | Security Testing
-- **Certifications**: CompTIA Security+, ISTQB
-
 ---
 *This is a practice project for portfolio purposes*
